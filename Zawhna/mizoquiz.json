@@ -1,63 +1,63 @@
 [
   {
-   "zawhna" : "Mizoram ah Chief Minister Lo ni tawhte hming ziak rawh, (an hming bulah hian pu tih dah loh tur a ni)",
-   "chhanna" : [
-                "Ch. Chhunga",
-                "Brig T Sailo",
-                "Lalthanhawla",
-                "Laldenga",
-                "Zoramthanga",
-                "Lalduhawma"
-                ]
-   },
-   {
-   "zawhna" : "Mizoram dil hminghang hming 4 ziak rawh"
-   "chhanna" : [
-                "Palak dil",
-                "Rih dil",
-                "Tam dil",
-                "Reng dil"
-                 ]
-   },
-   {
-   "zawhna" : "Mizoram district hmingte ziak rawh"
-   "chhanna" : [
-               "Saitual",
-               "Aizawl",
-               "Champhai",
-               "Hnahthial",
-               "Khawzawl",
-               "Kolasib",
-               "Lawngtlai",
-               "Mamit",
-               "Serchhip",
-               "Siaha",
-               "lunglei"
-                 ]
-   },
-   {
-   "zawhna" : "Mizo-te zinga baptisma chang hmasa ber te kha tute nge an hming ziak rawh"
-   "chhanna" : [
-              "Khuma",
-              "Khara"
-                 ]
-   },
-   {
-   "zawhna" : "Mary Winchester (Zoluti) mantu kha tunge a hming"
-   "chhanna" : [ 
-              "Bengkhuaia"   
-                 ]
-   },
-   {
-   "zawhna" : "Mizoram buai kum kha engtik kum nge? (a number chauh rawn ziak rawh)"
-   "chhanna" : [
-              "1966"
-                 ]
-   },
-   {
-   "zawhna" : "Mizoram zalen kum ziak rawh (a number chauh rawn ziak rawh)"
-   "chhanna" : [
-              "1988"
-                 ]
-   }
- ]
+    "zawhna": "Mizoram ah Chief Minister Lo ni tawhte hming ziak rawh, (an hming bulah hian pu tih dah loh tur a ni)",
+    "chhanna": [
+      "Ch. Chhunga",
+      "Brig T Sailo",
+      "Lalthanhawla",
+      "Laldenga",
+      "Zoramthanga",
+      "Lalduhawma"
+    ]
+  },
+  {
+    "zawhna": "Mizoram dil hminghang hming 4 ziak rawh",
+    "chhanna": [
+      "Palak dil",
+      "Rih dil",
+      "Tam dil",
+      "Reng dil"
+    ]
+  },
+  {
+    "zawhna": "Mizoram district hmingte ziak rawh",
+    "chhanna": [
+      "Saitual",
+      "Aizawl",
+      "Champhai",
+      "Hnahthial",
+      "Khawzawl",
+      "Kolasib",
+      "Lawngtlai",
+      "Mamit",
+      "Serchhip",
+      "Siaha",
+      "lunglei"
+    ]
+  },
+  {
+    "zawhna": "Mizo-te zinga baptisma chang hmasa ber te kha tute nge an hming ziak rawh",
+    "chhanna": [
+      "Khuma",
+      "Khara"
+    ]
+  },
+  {
+    "zawhna": "Mary Winchester (Zoluti) mantu kha tunge a hming",
+    "chhanna": [
+      "Bengkhuaia"
+    ]
+  },
+  {
+    "zawhna": "Mizoram buai kum kha engtik kum nge? (a number chauh rawn ziak rawh)",
+    "chhanna": [
+      "1966"
+    ]
+  },
+  {
+    "zawhna": "Mizoram zalen kum ziak rawh (a number chauh rawn ziak rawh)",
+    "chhanna": [
+      "1988"
+    ]
+  }
+]
